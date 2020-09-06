@@ -34,3 +34,7 @@ and get an overview of TypeScript capabilities and principles.
  1. Your contributions are welcome.
 
  2. `yarn start` starts the development server.
+
+## 提交记录
+
+ 1. 第一次修改-2020年9月6日16:38:42
